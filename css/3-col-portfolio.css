@@ -19,6 +19,7 @@ panel-heading{
 }
 .ganadores{
 	text-shadow: 0px 0px 35px;
+	font-weight: bold;
 	
 }
 .barra1 .navbar-brand {
